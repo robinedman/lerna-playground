@@ -1,11 +1,14 @@
 {
-  "name": "@robinedman/content-renderer",
+  "name": "content-renderer",
   "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "zooui": "github:robinedman/zooui#v1.0.0"
   },
   "keywords": [],
   "author": "",
