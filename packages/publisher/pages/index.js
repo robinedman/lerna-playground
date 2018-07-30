@@ -1,4 +1,4 @@
 import zooui from "zooui";
 
 console.log("publisher zooui", zooui);
-export default () => <div>Publish some awesome content</div>;
+export default () => <div>{zooui.hero("Publish some awesome content ")}</div>;
