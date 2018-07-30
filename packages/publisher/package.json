@@ -1,7 +1,7 @@
 {
   "name": "publisher",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,10 +13,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "zooui": "github:robinedman/zooui#v1.0.0",
-    "content-renderer": "github:robinedman/content-renderer#v1.0.0",
+    "content-renderer": "github:robinedman/content-renderer#v1.0.1",
     "next": "^6.1.1",
     "react": "^16.4.1",
-    "react-dom": "^16.4.1"
+    "react-dom": "^16.4.1",
+    "zooui": "github:robinedman/zooui#v1.0.1"
   }
 }
